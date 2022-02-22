@@ -9,4 +9,4 @@ pytest  --pylint --cov
 .coveragerc is the config for coverage
 setup.py is a config file for pytest
 
-Edited by Emmanuel Chiobi
+Edited by Emmanuel Chiobi (PR Edit)
